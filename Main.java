@@ -18,7 +18,7 @@ public class Main {
                 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
                 {0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
         };
-        System.out.print("Ievadiet uzdevuma numuru (1 vai 2): ");
+        System.out.print("Enter the assignment number (1 or 2): ");
         sk = sc.nextInt();
         //command processing
         switch(sk){
